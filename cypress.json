@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://weather.com/en-IN/?Goto=Redirected",
+    "chromeWebSecurity": false,
+    "experimentalSessionSupport": false,
+    "defaultCommandTimeout": 8000,
+    "video": true
+}

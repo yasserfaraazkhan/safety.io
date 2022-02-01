@@ -1,0 +1,23 @@
+{
+  "name": "safety.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasserfaraazkhan/safety.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasserfaraazkhan/safety.io/issues"
+  },
+  "homepage": "https://github.com/yasserfaraazkhan/safety.io#readme",
+  "devDependencies": {
+    "cypress": "^9.4.1"
+  }
+}
